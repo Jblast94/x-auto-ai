@@ -1,0 +1,5 @@
+{
+    "chat.useNestedAgentsMdFiles": true,
+    "chat.agentSessionsViewLocation": "view",
+    "chat.customAgentInSubagent.enabled": true
+}

@@ -1,0 +1,5 @@
+huggingface_hub
+requests
+PyYAML
+psycopg2-binary
+supabase

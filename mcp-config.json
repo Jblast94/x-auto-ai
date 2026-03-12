@@ -1,0 +1,27 @@
+{
+  "mcp": {
+    "servers": {
+      "z-ai-vision": {
+        "command": "npx",
+        "args": ["-y", "@z-ai/vision-mcp"],
+        "env": {
+          "Z_AI_API_KEY": "46a64e2930834d52afc6d0ce9bb4e0f1.nDGd72qVUwaanyB7"
+        }
+      },
+      "z-ai-search": {
+        "command": "npx", 
+        "args": ["-y", "@z-ai/search-mcp"],
+        "env": {
+          "Z_AI_API_KEY": "46a64e2930834d52afc6d0ce9bb4e0f1.nDGd72qVUwaanyB7"
+        }
+      },
+      "z-ai-reader": {
+        "command": "npx",
+        "args": ["-y", "@z-ai/reader-mcp"],
+        "env": {
+          "Z_AI_API_KEY": "46a64e2930834d52afc6d0ce9bb4e0f1.nDGd72qVUwaanyB7"
+        }
+      }
+    }
+  }
+}
